@@ -2,7 +2,7 @@ repo_name: tes20545/Vocational-Institute-Student-Organization
 report_id: dc35e0b18aac32ab704fbd7fdd77fc82
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:43:19+00:00'
+timestamp: '2024-02-29T18:45:49+00:00'
 requested_by: tes20545
 provider: github
 branch: main
@@ -64,7 +64,7 @@ tools:
   detection_source_url: https://github.com/tes20545/Vocational-Institute-Student-Organization
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.0.3
   license: MIT
